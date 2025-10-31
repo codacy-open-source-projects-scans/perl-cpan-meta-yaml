@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/CPAN-Meta-YAML-*/
+/CPAN-Meta-YAML-*.tar.gz
